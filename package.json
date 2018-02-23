@@ -1,0 +1,25 @@
+{
+  "name": "authentication-facebook-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyhsa93/authentication-facebook-api.git"
+  },
+  "author": "kyhsa93",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyhsa93/authentication-facebook-api/issues"
+  },
+  "homepage": "https://github.com/kyhsa93/authentication-facebook-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "passport": "^0.4.0",
+    "passport-facebook": "^2.1.1"
+  }
+}
